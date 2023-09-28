@@ -1154,6 +1154,17 @@
             ]
         },
         {
+    "name": "极速资源",
+    "hosts": [
+        "jszy"
+    ],
+    "regex": [
+        "#EXT-X-DISCONTINUITY\r*\n*[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?muguacdn*?\\.ts\\s+",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+    ]
+},
+        {
             "name": "火山嗅探",
             "hosts": [
                 "huoshan.com"
