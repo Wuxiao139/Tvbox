@@ -218,6 +218,15 @@
                 "跳转播放链接": "vod_class*url\":\"&&\""
             }
         },
+          {
+            "key": "好看",
+            "name": "好看┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./Jars/gbm.jar",
+            "playerType": "1",
+            "ext": "./json/好看剧院.json"
+        },
         {
             "key": "csp_77",
             "name": "🍀七七┃手机",
