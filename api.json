@@ -242,7 +242,7 @@
         },
   {
     "key": "蜗牛",
-    "name": "蜗牛影视",
+    "name": "🐌蜗牛┃影视",
     "type": 3,
     "api": "csp_XBPQ",
     "searchable": 0,
@@ -254,7 +254,7 @@
         "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
         "副标题": " class=\"module-item-text\">&&</div>",
         "分类": "电影$1#日韩剧$21#海外剧$2#动漫$20",
-        "分类url": "https://v.wuxivlog.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+        "分类url": "https://v.woniufan.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
     }
 },
         {
