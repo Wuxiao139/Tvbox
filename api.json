@@ -245,9 +245,9 @@
     "name": "🐌蜗牛┃影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
     "ext": {
         "数组": "class=\"module-item-text\"&&class=\"loading\"",
         "线路数组": "data-dropdown-value=&&</div>",
