@@ -1170,12 +1170,7 @@
                     "User-Agent": "okhttp/4.1.0"
                 }
             }
-        },
-            {
-      "name": "小鱼解析",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
-    },
+        },            
 {
       "name": "莫问前程",
       "type": 1,
