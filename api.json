@@ -352,15 +352,16 @@
             "filterable": 1,
             "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
         },
-		    {
-      "key": "测试",
-      "name": "影探┃VIP",
-      "type": 3,
+	    {
+      "key": "迪迪",
+      "name": "🌈迪迪┃App",
       "api": "csp_AppYsV2",
+      "type": 3,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://vipcms.lyyytv.cn/api.php/app/"
+      "changeable": 1,
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
         {
             "key": "csp_77",
