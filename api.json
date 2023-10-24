@@ -346,7 +346,7 @@
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
         {
-            "key": "csp_77",
+            "key": "77",
             "name": "🍀七七┃手机",
             "type": 3,
             "api": "csp_Kunyu77",
@@ -354,6 +354,16 @@
             "quickSearch": 1,
             "changeable": 1
         },
+	    {
+      "key": "觅视频",
+      "name": "🗽觅视频┃App",
+      "type": 3,
+      "api": "csp_AppSK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjPcVZY48PN/RIZ5UWFro5tctBJAZhIEz5OvLqy0VZGH5/R/mCR2kPI46ezGyKoem+Vym4tmTJ5Gio/CM0pPlNKXd+d2hTULzhB0SoYmLd4"
+    },
         {
             "key": "毛驴",
             "name": "🌼毛驴┃App",
