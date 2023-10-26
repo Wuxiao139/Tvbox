@@ -1166,6 +1166,35 @@
         }
       }
     },
+{
+      "name": "白嫖🐼",
+      "type": 1,
+      "url": "http://jx.lem.icu/api/?key=027181cefdc41cfdd2efa074f2fcf722&url=",
+      "ext": {
+        "flag": [
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "芒果"
+        ],
+        "header": {
+          "User-Agent": "okhttp/3.12.0"
+        }
+      }
+    },	    
     {
       "name": "YuMi-vip🥭",
       "type": 1,
