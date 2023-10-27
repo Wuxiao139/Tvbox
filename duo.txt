@@ -5,8 +5,8 @@
 {"name":"🌹小米","url":"http://xhww.fun:63/小米/DEMO.json"},
 {"name":"💞云星","url":"http://itvbox.cc/tvbox/云星日记/1.m3u8"},
 {"name":"💞多多","url":"https://yydsys.top/duo"},
-{"name":"💞小吴整理","url":"https://codeberg.org/wuxiao/Tvbox/raw/branch/main/api.json"}
-{"name":"💞小吴私人线路（备用）","url":"https://ghproxy.com/https://raw.githubusercontent.com/Wuxiao139/Tvbox/main/api.json"}
+{"name":"💞小吴整理","url":"https://codeberg.org/wuxiao/Tvbox/raw/branch/main/api.json"},
+{"name":"💞小吴私人线路（备用）","url":"https://ghproxy.com/https://raw.githubusercontent.com/Wuxiao139/Tvbox/main/api.json"}，
 {"name":"🌺道长","url":"https://raw.gitmirror.com/yw88075/tvbox/main/dr/js.json"},
 {"name":"🌺小胡622","url":"http://xzam.cn:66/tv"},
 {"name":"🏆荷城","url":"http://rihou.cc:99/荷城茶秀"},
